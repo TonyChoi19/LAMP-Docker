@@ -1,0 +1,31 @@
+#wrapper {
+    width: 1024px;
+    margin: auto;
+    padding: 1em;
+    border: 3px solid #ffffff;
+  }
+  
+  .post_text {
+    color: whitesmoke;
+    font-size: larger;
+  }
+  
+  .post_user {
+    color:goldenrod;
+    font-size: medium;
+  }
+
+.white_box {
+    border: 3px whitesmoke solid;
+    padding: 10px;
+    width: 100%;
+    margin: 10px;
+}
+
+.green_box {
+    border: 3px rgb(34, 139, 81) solid;
+    padding: 10px;
+    width: 100%;
+    margin: 10px;
+}
+  
