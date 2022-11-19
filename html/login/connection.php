@@ -2,8 +2,8 @@
 
 $dbhost = "mysql-server";
 $dbname = "dbs";
-$username = "root";
-$password = "root";
+$username = "webuser";
+$password = "webuser";
 
 $mysqli = new mysqli(hostname: $dbhost, username: $username, password: $password, database: $dbname);
 
