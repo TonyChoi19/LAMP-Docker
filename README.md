@@ -5,3 +5,6 @@
 3. RUN docker compose up -d
 4. open localhost:5000(PhpMyAdmin) to import the init.sql in lamp/sql-init/
 5. open localhost:8080 for web
+
+Project Demo Video:
+https://www.youtube.com/watch?v=kNkqSEbwWe8
